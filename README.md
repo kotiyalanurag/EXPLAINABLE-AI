@@ -1,3 +1,3 @@
-### Explainable Artificial Intelligence Lab SS'22
+### Explainable AI and Application Lab SS'22
 
-Work in progress. Come back later!!!
+This repository contains my work for the Explainable AI and Application Lab for Summer Semester 2022. The 'relation.csv' file contains the data obtained after preprocessing.
